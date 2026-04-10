@@ -1,5 +1,3 @@
-
----
 # Crop Recommendation Model
 
 This module predicts the best crop based on input parameters.
@@ -21,6 +19,34 @@ This module predicts the best crop based on input parameters.
 ## Tech Stack
 - Python
 - Scikit-learn
+
+## How to Run
+```bash
+pip install -r requirements.txt
+python app.py
+
+
+
+# Price Prediction Model
+
+Predicts crop prices using historical data.
+
+## Responsibilities
+- Time-series analysis
+- Model building (ARIMA/LSTM)
+- API creation
+
+## Input
+- Crop name
+- Date / historical data
+
+## Output
+- Predicted price
+
+## Tech Stack
+- Python
+- Pandas
+- Statsmodels / TensorFlow
 
 ## How to Run
 ```bash
