@@ -20,12 +20,6 @@ This module predicts the best crop based on input parameters.
 - Python
 - Scikit-learn
 
-## How to Run
-```bash
-pip install -r requirements.txt
-python app.py
-
-
 
 # Price Prediction Model
 
@@ -48,7 +42,4 @@ Predicts crop prices using historical data.
 - Pandas
 - Statsmodels / TensorFlow
 
-## How to Run
-```bash
-pip install -r requirements.txt
-python app.py
+
