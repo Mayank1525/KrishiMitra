@@ -1,8 +1,5 @@
 
 ---
-
-# 📂 2. `backend/README.md`
-```markdown
 # Backend (Node.js / Express)
 
 This is the main server that connects frontend, ML models, and chatbot.
