@@ -81,18 +81,6 @@ KrishiMitra provides an integrated platform that:
 
 ---
 
-## 📂 Project Structure
-
-KrishiMitra/
-│
-├── frontend/ # React frontend
-├── backend/ # API server (Node/Django)
-├── ml-models/ # ML & CV models
-├── chatbot/ # AI chatbot logic
-├── database/ # DB schemas/config
-├── assets/ # Images & static files
-└── README.md
-
 ## 📊 Use Cases
 
 👨‍🌾 Farmers selecting best crops
@@ -101,6 +89,7 @@ KrishiMitra/
 📉 Market price forecasting
 🧠 Instant AI-based assistance
 
+---
 
 ## 🌟 Unique Selling Points
 🔗 All-in-one agriculture solution
@@ -109,6 +98,7 @@ KrishiMitra/
 📊 Data-driven decision making
 ⚙️ Scalable modular architecture
 
+---
 
 ## 🔮 Future Scope
 📡 IoT-based soil monitoring
@@ -117,3 +107,5 @@ KrishiMitra/
 🏛️ Government scheme integration
 🛰️ Satellite-based analytics
 🌍 Expansion to global markets
+---
+
